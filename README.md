@@ -1,2 +1,3 @@
-# gravyesq.github.io
-משבץ חדרים לבחינה — כלי מקומי לשיבוץ תלמידים לפי התאמות
+# GravyEsq
+
+Personal GitHub Pages homepage. Individual tools and projects are hosted in their own repositories.
